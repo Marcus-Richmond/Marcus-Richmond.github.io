@@ -67,10 +67,15 @@
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;
 			width: 100%;
+			box-shadow: 0px 0px 50px rgb(0, 0, 0); 
 
 			img {
 				width: 100%;
 			}
+
+			// img:hover {
+			// 	box-shadow: 8px 8px 15px rgba(201, 201, 201, 0.75); 
+			// }
 		}
 
 		@include breakpoint('<=small') {

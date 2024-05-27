@@ -5,6 +5,7 @@
 @import 'libs/breakpoints';
 @import 'fontawesome-all.min.css';
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 
 /*
 	Dimension by HTML5 UP
@@ -48,3 +49,11 @@
 	@import 'layout/header';
 	@import 'layout/main';
 	@import 'layout/footer';
+
+// Backgrounds
+
+	@import 'backgrounds/bg_MtStHelens';
+
+// extra
+
+	@import '../css/extra1.css';

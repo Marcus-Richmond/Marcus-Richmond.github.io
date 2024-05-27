@@ -64,7 +64,7 @@
 		.content {
 			border-style: solid;
 			border-color: _palette(border);
-			border-top-width: _size(border-width);
+			border-top-width: _size(border-width-none);
 			border-bottom-width: _size(border-width);
 			max-width: 100%;
 
