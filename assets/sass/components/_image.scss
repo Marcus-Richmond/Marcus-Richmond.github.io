@@ -65,8 +65,23 @@
 
 		&.main {
 			display: block;
-			margin: (_size(element-margin) * 1.25) 0;
-			width: 100%;
+			margin: (_size(element-margin) * 0.75) 0;
+			width: 80%;
+			box-shadow: 0px 0px 50px rgb(0, 0, 0); 
+
+			img {
+				width: 100%;
+			}
+
+			// img:hover {
+			// 	box-shadow: 8px 8px 15px rgba(201, 201, 201, 0.75); 
+			// }
+		}
+
+		&.main-mars {
+			display: block;
+			margin: (_size(element-margin) * 0.75) 0;
+			width: 25%;
 			box-shadow: 0px 0px 50px rgb(0, 0, 0); 
 
 			img {
@@ -80,13 +95,23 @@
 
 		@include breakpoint('<=small') {
 			&.main {
-				margin: (_size(element-margin) * 1) 0;
+				margin: (_size(element-margin) * 0.5) 0;
+				width: 100%;
+			}
+			&.main-mars {
+				margin: (_size(element-margin) * 0.5) 0;
+				width: 60%;
 			}
 		}
 
 		@include breakpoint('<=xsmall') {
 			&.main {
-				margin: (_size(element-margin) * 0.75) 0;
+				margin: (_size(element-margin) * 0.25) 0;
+				width: 100%;
+			}
+			&.main-mars {
+				margin: (_size(element-margin) * 0.5) 0;
+				width: 80%;
 			}
 		}
 	}
