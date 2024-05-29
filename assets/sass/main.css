@@ -1084,7 +1084,7 @@ button {
   -webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
   -ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("../../images/bg2.jpg");
+  background-image: url("../../images/bg2.webp");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1218,7 +1218,7 @@ body.is-preload #bg-MtStHelens:before {
   -webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
   -ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("../../images/map_MtHood/MtHood_blur1.png");
+  background-image: url("../../images/map_MtHood/MtHood_blur1.webp");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1285,7 +1285,7 @@ body.is-preload #bg-MtHood:before {
   -webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
   -ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("../../images/map_Tahoe/Tahoe_blur1.jpg");
+  background-image: url("../../images/map_Tahoe/Tahoe_blur1.webp");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1352,7 +1352,7 @@ body.is-preload #bg-Tahoe:before {
   -webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
   -ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("../../images/DTEEC_002878/DTEEC_002878_blur1.jpg");
+  background-image: url("../../images/DTEEC_002878/DTEEC_002878_blur1.webp");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1419,7 +1419,7 @@ body.is-preload #bg-DTEEC002878:before {
   -webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
   -ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("../../images/map_Africa/Africa_blur1.jpg");
+  background-image: url("../../images/map_Africa/Africa_blur1.webp");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1486,7 +1486,7 @@ body.is-preload #bg-Africa:before {
   -webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
   -ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("../../images/map_PCT/PCT_blur1.jpg");
+  background-image: url("../../images/map_PCT/PCT_blur1.webp");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1553,7 +1553,7 @@ body.is-preload #bg-PCT:before {
   -webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
   -ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("../../images/map_MtAdams/MtAdams_blur1.jpg");
+  background-image: url("../../images/map_MtAdams/MtAdams_blur1.webp");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1620,7 +1620,7 @@ body.is-preload #bg-MtAdams:before {
   -webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
   -ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("../../images/map_MtShasta/MtShasta_blur1.jpg");
+  background-image: url("../../images/map_MtShasta/MtShasta_blur1.webp");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
